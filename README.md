@@ -1,2 +1,24 @@
 # BIUFO-AI-Quant-Platform
-Evolve from SIUBIU Quant
+
+> Evolve from X Biu AI Quant
+
+本專案目前仍在開發中，尚未完成。  
+目標是打造一個基於人工智慧的量化交易平台，提供靈活的工具與框架，協助用戶進行策略開發和回測。
+
+## 專案狀態
+
+- 開發中，功能持續完善中
+- 尚未發佈穩定版本
+- 歡迎提出建議或協助開發
+
+## 如何參與
+
+歡迎感興趣的朋友們提交 issue 或 pull request，幫助我們一起完善本專案！
+
+## 聯絡方式
+
+如有任何疑問或建議，請於 GitHub Issue 區留言。
+
+---
+
+本 README 會隨著專案進展持續更新。
